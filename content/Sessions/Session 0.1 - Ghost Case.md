@@ -1,3 +1,6 @@
+---
+publish:
+---
 3 months before main story
 ## Ghost Town
 * Accustomed to a ghost town in [[Vitania]]
