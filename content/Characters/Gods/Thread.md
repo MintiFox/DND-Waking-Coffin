@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-10-13T18:32:38.979-05:00","modified":"2025-10-30T17:56:44.533-05:00","cssclasses":""}
+publish: true
 ---
-
 ### Details
 
 
@@ -13,9 +12,9 @@
 
 | Name        | Relationship |
 | ----------- | ------------ |
-| [[Characters/PCs/Agarica]] | Frenimies    |
+| [[Agarica]] | Frenimies    |
 ### Sessions
-[[Sessions/Session 0 - Trials]]
+[[Session 0 - Trials]]
 ## Summary
 Goddess of fate, assigned to Agarica because they're mad Agarica defies fate themself as well as assists others in defying their fates
 ## Notes

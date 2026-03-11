@@ -1,8 +1,4 @@
----
-publish: true
----
 ![[JJ.webp|250]]
-
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -22,4 +18,4 @@ publish: true
 
 ## Notes
 
-* Knows Mind Sliver
+* 

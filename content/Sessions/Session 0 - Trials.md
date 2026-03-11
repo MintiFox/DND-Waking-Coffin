@@ -1,7 +1,6 @@
 ---
-{"publish":true,"created":"2025-10-13T18:29:18.527-05:00","modified":"2025-10-30T17:58:08.905-05:00","cssclasses":""}
+publish: true
 ---
-
 
 # Celebration
 
@@ -13,8 +12,8 @@
 	- This is the 5 year anniversary
 	- This year has the highest prize
 - Agar signs up, is brought to an arena
-- A woman appears, “The [[Characters/Leaders/Commander Athena]]” is all she as known as
-	- The leader of my world, [[Areas/Vitania/Vitania]]
+- A woman appears, “The [[Commander Athena]]” is all she as known as
+	- The leader of my world, [[Vitania]]
 	- She has many advertisements, advertised under that name
 	- Tall muscular woman
 - 3 trials
@@ -29,7 +28,7 @@
 # Trial of Might
 
 - Three leaders are watching
-- Large orcish creature comes out ([[Characters/Misc/Jason]]), he has a mace and a shield
+- Large orcish creature comes out ([[Jason]]), he has a mace and a shield
 - Summons 4 crocodiles and win the fight
 # Trial of Cunning
 
@@ -53,5 +52,5 @@
 - Golden threads weave down, and before me is a woman
 - She is like a spider, has a body with hovering hands
 - She pulls out an already snipped in half, decaying thread, bluish
-- Her name is [[Characters/Gods/Thread]]
-- She seems to really like [[Characters/PCs/Agarica]]
+- Her name is [[Thread]]
+- She seems to really like [[Agarica]]
