@@ -16,6 +16,7 @@ publish: true
 |      |              |
 ### Sessions
 [[Session 0 - Trials]]
+[[Session 1]]
 ## Summary
 
 ## Notes

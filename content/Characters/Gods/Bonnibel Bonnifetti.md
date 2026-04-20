@@ -1,4 +1,7 @@
-
+---
+publish:
+---
+![[Jester.png|250]]
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |

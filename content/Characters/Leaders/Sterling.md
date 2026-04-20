@@ -13,7 +13,9 @@ publish: true
 | Name | Relationship |
 | ---- | ------------ |
 |      |              |
+|      |              |
 ### Sessions
+[[Session 1]]
 
 ## Summary
 

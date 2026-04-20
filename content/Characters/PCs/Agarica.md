@@ -1,6 +1,8 @@
 ---
 publish: true
 ---
+![[Agar.png|250]]
+
 * mushrooms
 * detective
 * centaur
@@ -11,3 +13,4 @@ publish: true
 * assigned to [[Thread]]
 * Cannot heal with health potions
 * heals with ghost food
+* Is number 6??

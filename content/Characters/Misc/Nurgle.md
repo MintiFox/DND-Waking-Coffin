@@ -18,6 +18,7 @@ publish:
 | [[Agarica]]   | Friend       |
 ### Sessions
 [[Session 0.1 - Ghost Case]]
+[[Session 1]]
 ## Summary
 
 ## Notes

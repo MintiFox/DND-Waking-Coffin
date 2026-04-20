@@ -1,4 +1,7 @@
-
+---
+publish:
+---
+![[Lune.png|250]]
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
@@ -9,11 +12,11 @@
 |          |      |             |
 ### Relationships
 
-| Name | Relationship |
-| ---- | ------------ |
-|      |              |
+| Name                    | Relationship |
+| ----------------------- | ------------ |
+| [[Bonnibel Bonnifetti]] | Diciple      |
 ### Sessions
-
+[[Session 1]]
 ## Summary
 
 ## Notes

@@ -6,5 +6,7 @@ This is a test index
 PCs:
 [[Agarica]]
 [[JJ]]
-[[Merritt]]
+[[Merritt - Sparrow]]
+[[Flan]]
+[[Magni]]
 [[Morel]]

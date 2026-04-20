@@ -6,20 +6,22 @@ publish: true
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |
+| +2  |     |     |     |     |     |
 
-| Pronouns | Race | Class/Title            |
-| -------- | ---- | ---------------------- |
-| ???      |      | Arcane Trickster Rogue |
+| Pronouns | Race      | Class/Title            |
+| -------- | --------- | ---------------------- |
+| ???      | Warforged | Arcane Trickster Rogue |
 ### Relationships
 
 | Name | Relationship |
 | ---- | ------------ |
 |      |              |
-### Sessions
+
 
 ## Summary
 
 ## Notes
 
 * Knows Mind Sliver
+* clicks when they move
+* taller than Magni

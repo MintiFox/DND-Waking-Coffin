@@ -2,7 +2,7 @@
 publish: true
 ---
 ### Details
-![[Cobra.webp|250]]2
+![[Cobra.png|250]]
 
 
 
@@ -14,8 +14,9 @@ publish: true
 
 | Name    | Relationship |
 | ------- | ------------ |
-| [[Merritt]] | friends?     |
+| [[Merritt - Sparrow]] | friends?     |
 ### Sessions
+[[Session 1]]
 
 ## Summary
 
